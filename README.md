@@ -20,17 +20,11 @@
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
 -->
-
 <div>
-    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
+    <img src="./assets/skills.gif" alt="Skills GIF"/>
 </div>
 
-<!--
-     My mission, because I'm a superhero!
--->
-<!--
-     This is the list of my skills and tools I am studying!
--->
+
 ## Technical Skills
 
 ### Programming Languages
@@ -86,7 +80,7 @@
      I also have my own blog with useful information, check it out ^^
 -->
 
-### Publications
+## Publications
 <div> 
   <a href="https://medium.com/@daria-stanilevici">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" alt="Medium">
@@ -99,22 +93,8 @@
 You can find my publications on Medium and Dev.to, where I share career insights, tips, and my knowledge and experience in tech.
 I also delve into personal thoughts and research on AI, quantum computing and other interesting topics.
 
-<!--
-Check out my latest post 👇  
 
-<a href="https://medium.com/@anandt1201" target="_blank">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@daria-stanilevici/0" alt="Latest Medium Article" />
-</a>
-
-
-[![My latest Medium post](https://miro.medium.com/v2/resize:![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6465762e746f2d3041304130413f7374796c653d666f722d7468652d6261646765266c6f676f3d6465762e746f266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/28e6938a-6e8a-499e-ad0c-91e240c148c2)
-fit:1200/format:webp/INSERT-YOUR-COVER-IMAGE-ID-HERE)](https://medium.com/@daria-stanilevici/your-article-slug)
-
-
-     Fast links to my socials!
--->
-
-### Connect with me!
+## Connect with me!
 <div>
     <a href="[https://www.linkedin.com/in/daria-stanilevici/](https://www.linkedin.com/in/anandthampi1201/)">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
@@ -127,11 +107,8 @@ fit:1200/format:webp/INSERT-YOUR-COVER-IMAGE-ID-HERE)](https://medium.com/@daria
     </a>
 </div>
 
-<!--
-     Oh, hello there, recruiters!
--->
 
-### Employer?
+## Employer?
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/file/d/1JHPCcpIRM18dgEWz6MnyR7I7SXwtOvb3/view?usp=drive_link" download>Download my resume</a>
 
