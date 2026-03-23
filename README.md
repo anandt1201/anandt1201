@@ -41,7 +41,7 @@ You can find my publications on Medium, where I share career insights, tips, and
 
 ## Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1JHPCcpIRM18dgEWz6MnyR7I7SXwtOvb3/view?usp=drive_link" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/1Anq89Qd_OtANEG8brljdSUttM5xf5ToI/view?usp=drive_link" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
