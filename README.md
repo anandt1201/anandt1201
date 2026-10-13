@@ -13,7 +13,7 @@
   <a href="https://anandt1201.github.io/">Portfolio</a> •
   <a href="https://medium.com/@anandt1201">Medium</a> •
   <a href="https://www.credly.com/users/anandt1201">Credly</a> •
-  <a href="./AnandThampi_Resume.pdf">Resume</a>
+  <a href="https://drive.google.com/file/d/1Anq89Qd_OtANEG8brljdSUttM5xf5ToI/view?usp=drive_link">Resume</a>
 </p>
 
 ---
