@@ -190,6 +190,6 @@ I write about software engineering, architecture, and career growth on Medium:
   </a>
 </p>
 
-**Open to Lead / Staff / Principal Software Engineer and Solution Architect roles in Bangalore & remote.**
+**Open to Senor / Lead / Staff / Principal Software Engineer roles in Bangalore, Hyderabad, Pune, Chennai & Remote.**
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
