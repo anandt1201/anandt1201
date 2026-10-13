@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+
 <h1 align="center">Hi there, I'm Anand T! 👋</h1>
 
 <p align="center">
