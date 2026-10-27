@@ -166,6 +166,8 @@ I care deeply about clean architecture, production reliability, and mentoring en
 ## 🎓 Education & Certifications
 
 - **B.Tech, Computer Science & Engineering** — Cochin University of Science and Technology
+- **GitHub Certified: Agentic AI Developer**
+- **Microsoft Certified: Azure AI Cloud Developer Associate**
 - **Certified SAFe 6 Practitioner**
 
 ## 📝 Publications
