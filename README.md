@@ -163,12 +163,15 @@ I care deeply about clean architecture, production reliability, and mentoring en
 - Owned end-to-end feature development in a startup environment — design, implementation, debugging, and deployment.
 - Delivered scalable, client-focused applications in collaboration with cross-functional teams.
 
-## 🎓 Education & Certifications
+## 🏅 Certifications
 
-- **B.Tech, Computer Science & Engineering** — Cochin University of Science and Technology
 - **GitHub Certified: Agentic AI Developer**
 - **Microsoft Certified: Azure AI Cloud Developer Associate**
 - **Certified SAFe 6 Practitioner**
+
+## 🎓 Education
+
+- **B.Tech, Computer Science & Engineering** — Cochin University of Science and Technology
 
 ## 📝 Publications
 
